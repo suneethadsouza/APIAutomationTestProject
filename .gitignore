@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/APIAutomationTestProject/v16
+/APIAutomationTestProject/bin/Debug/netcoreapp3.1
+/APIAutomationTestProject/obj
+/.vs/APIAutomationTestProject/DesignTimeBuild
